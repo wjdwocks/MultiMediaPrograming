@@ -1,0 +1,49 @@
+﻿  Bitmap.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(218,23): error C2143: 구문 오류: ';'이(가) '*' 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(218,23): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(218,30): error C2238: ';' 앞에 예기치 않은 토큰이 있습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(361,15): error C3646: 'Format': 알 수 없는 재정의 지정자입니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(361,21): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(362,13): error C3646: 'Pool': 알 수 없는 재정의 지정자입니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(362,17): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(400,25): error C2061: 구문 오류: 식별자 'IDirect3DSurface9'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(519,25): error C2061: 구문 오류: 식별자 'IDirect3DSurface9'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(650,24): error C2061: 구문 오류: 식별자 'IDirect3DDevice9'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(654,24): error C2061: 구문 오류: 식별자 'IDirect3DDevice9'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(660,25): error C2061: 구문 오류: 식별자 'IDirect3DSurface9'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(1329,23): error C2143: 구문 오류: ';'이(가) '*' 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(1329,23): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(1329,28): error C2238: ';' 앞에 예기치 않은 토큰이 있습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(1482,25): error C2061: 구문 오류: 식별자 'IDirect3DSurface9'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(2430,23): error C2143: 구문 오류: ';'이(가) '*' 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(2430,23): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(2430,40): error C2238: ';' 앞에 예기치 않은 토큰이 있습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(2474,24): error C2061: 구문 오류: 식별자 'IDirect3DSurface9'
+C:\Users\user\Desktop\수업들\2학년 2학기\멀티미디어 프로그래밍\비디오와 텍스트의 합성\비디오와 텍스트의 합성\Bitmap.cpp(13,16): error C2371: 'VMR9AlphaBitmap': 재정의. 기본 형식이 다릅니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(1335,8): message : 'VMR9AlphaBitmap' 선언을 참조하십시오.
+  Ticker.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(218,23): error C2143: 구문 오류: ';'이(가) '*' 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(218,23): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(218,30): error C2238: ';' 앞에 예기치 않은 토큰이 있습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(361,15): error C3646: 'Format': 알 수 없는 재정의 지정자입니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(361,21): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(362,13): error C3646: 'Pool': 알 수 없는 재정의 지정자입니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(362,17): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(400,25): error C2061: 구문 오류: 식별자 'IDirect3DSurface9'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(519,25): error C2061: 구문 오류: 식별자 'IDirect3DSurface9'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(650,24): error C2061: 구문 오류: 식별자 'IDirect3DDevice9'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(654,24): error C2061: 구문 오류: 식별자 'IDirect3DDevice9'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(660,25): error C2061: 구문 오류: 식별자 'IDirect3DSurface9'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(1329,23): error C2143: 구문 오류: ';'이(가) '*' 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(1329,23): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(1329,28): error C2238: ';' 앞에 예기치 않은 토큰이 있습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(1482,25): error C2061: 구문 오류: 식별자 'IDirect3DSurface9'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(2430,23): error C2143: 구문 오류: ';'이(가) '*' 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(2430,23): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(2430,40): error C2238: ';' 앞에 예기치 않은 토큰이 있습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(2474,24): error C2061: 구문 오류: 식별자 'IDirect3DSurface9'
+C:\Users\user\Desktop\수업들\2학년 2학기\멀티미디어 프로그래밍\비디오와 텍스트의 합성\비디오와 텍스트의 합성\Ticker.cpp(16,16): error C2371: 'VMR9AlphaBitmap': 재정의. 기본 형식이 다릅니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\vmr9.h(1335,8): message : 'VMR9AlphaBitmap' 선언을 참조하십시오.
+C:\Users\user\Desktop\수업들\2학년 2학기\멀티미디어 프로그래밍\비디오와 텍스트의 합성\비디오와 텍스트의 합성\Ticker.cpp(318,18): error C2084: 'LRESULT AboutDlgProc(HWND,UINT,WPARAM,LPARAM)' 함수에 이미 본문이 있습니다.
+C:\Users\user\Desktop\수업들\2학년 2학기\멀티미디어 프로그래밍\비디오와 텍스트의 합성\비디오와 텍스트의 합성\Ticker.cpp(303,18): message : 'AboutDlgProc'의 이전 정의를 참조하십시오.
+  코드를 생성하고 있습니다...
